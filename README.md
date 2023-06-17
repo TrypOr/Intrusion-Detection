@@ -1,4 +1,4 @@
-# Intrusion-Detection-
+# Intrusion-Detection
 An intrusion detection program in c
 
 This is a basic packet analyzer that reads a packet capture file in the PCAPNG format and prints out some information about the packets it contains. The packet analyzer 
